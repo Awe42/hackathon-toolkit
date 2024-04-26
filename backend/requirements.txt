@@ -1,0 +1,8 @@
+numpy
+uvicorn
+fastapi
+psycopg2-binary
+SQLAlchemy==1.4.4
+pandas
+scipy
+matplotlib
